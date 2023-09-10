@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Federico Saboredo</h1>
-<h3 align="center">​Buscar detalles 1,127 / 5,000 Resultados de traducción Traducción Hello! I am Federico Saboredo, a passionate Computer Technician and Programmer with a deep love for web technologies. My journey in the world of computing began at an early age, and over the years I have cultivated my skills and knowledge in various aspects of programming.</h3>
+<h3 align="center">Hello! I am Federico Saboredo, a passionate Computer Technician and Programmer with a deep love for web technologies. My journey in the world of computing began at an early age, and over the years I have cultivated my skills and knowledge in various aspects of programming.</h3>
 
 - 🔭 I’m currently working on [SeñalizaTec](https://github.com/Xenock20/Demo-Se-alizaTec)
 

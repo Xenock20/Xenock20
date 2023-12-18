@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Federico Saboredo</h1>
 <h3 align="center">¡Hola! Soy Federico Saboredo, un apasionado Técnico en Computación y Programador con un profundo amor por las tecnologías web. Mi camino en el mundo de la informática comenzó a temprana edad, y a lo largo de los años he cultivado mis habilidades y conocimientos en diversos aspectos de la programación.</h3>
 
-- 🔭 Actualmente estoy trabajando en [SeñalizaTec](https://github.com/Xenock20/Demo-Se-alizaTec)
+- 🔭 Actualmente estoy trabajando en [Portafolio](https://joyful-cuchufli-6a7e25.netlify.app/)
 
 - 🌱 Actualmente estoy aprendiendo **React**
 

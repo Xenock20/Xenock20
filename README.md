@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en [Portafolio](https://joyful-cuchufli-6a7e25.netlify.app/)
 
-- 🌱 Actualmente estoy aprendiendo **React**
+- 🌱 Actualmente estoy aprendiendo **.NET** a profundidad
 
 - 📫 Como llegar a mi **federicosaboredo04@gmail.com**
 

@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en [Portafolio](https://joyful-cuchufli-6a7e25.netlify.app/)
 
-- 🌱 Actualmente estoy aprendiendo **NEXT JS**
+- 🌱 Actualmente estoy aprendiendo **NEXT JS + NEST JS (TS)**
 
 - 📫 Como llegar a mi **federicosaboredo04@gmail.com**
 
